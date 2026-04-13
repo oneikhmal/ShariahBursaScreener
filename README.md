@@ -2,6 +2,11 @@
 
 A free, open-source Shariah compliance screener for Bursa Malaysia stocks — built with Python, yfinance, and Streamlit. Applies AAOIFI (Accounting and Auditing Organisation for Islamic Financial Institutions) screening methodology.
 
+<img width="1905" height="1027" alt="image" src="https://github.com/user-attachments/assets/b8c647ee-d9fc-489c-b83a-7129ff303e99" />
+
+<img width="1453" height="619" alt="image" src="https://github.com/user-attachments/assets/955deeba-2c27-4e2c-bc9c-68b923a9a5bd" />
+
+
 ## Why This Exists
 
 There is no free, well-built, regularly-updated Shariah screener for KLSE stocks. This project fills that gap for Malaysian Muslim retail investors.
